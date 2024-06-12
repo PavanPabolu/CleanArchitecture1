@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Repo-.Net\\NC\\CleanArchitecture1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E7E70F-AB92-4B5D-A962-2AAAF0EE6218}|CleanArchitecture1.WebAPI\\CleanArchitecture1.WebAPI.csproj|d:\\work\\repo-.net\\nc\\cleanarchitecture1\\cleanarchitecture1.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E7E70F-AB92-4B5D-A962-2AAAF0EE6218}|CleanArchitecture1.WebAPI\\CleanArchitecture1.WebAPI.csproj|solutionrelative:cleanarchitecture1.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B402B89-97D8-4F02-8230-3123A0F86545}|CleanArchitecture1.Domain\\CleanArchitecture1.Domain.csproj|d:\\work\\repo-.net\\nc\\cleanarchitecture1\\cleanarchitecture1.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B402B89-97D8-4F02-8230-3123A0F86545}|CleanArchitecture1.Domain\\CleanArchitecture1.Domain.csproj|solutionrelative:cleanarchitecture1.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04D8CD4-D1C2-4E36-A65F-F76C06387334}|CleanArchitecture1.Presentation\\CleanArchitecture1.Presentation.csproj|d:\\work\\repo-.net\\nc\\cleanarchitecture1\\cleanarchitecture1.presentation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04D8CD4-D1C2-4E36-A65F-F76C06387334}|CleanArchitecture1.Presentation\\CleanArchitecture1.Presentation.csproj|solutionrelative:cleanarchitecture1.presentation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04D8CD4-D1C2-4E36-A65F-F76C06387334}|CleanArchitecture1.Presentation\\CleanArchitecture1.Presentation.csproj|d:\\work\\repo-.net\\nc\\cleanarchitecture1\\cleanarchitecture1.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04D8CD4-D1C2-4E36-A65F-F76C06387334}|CleanArchitecture1.Presentation\\CleanArchitecture1.Presentation.csproj|solutionrelative:cleanarchitecture1.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04D8CD4-D1C2-4E36-A65F-F76C06387334}|CleanArchitecture1.Presentation\\CleanArchitecture1.Presentation.csproj|d:\\work\\repo-.net\\nc\\cleanarchitecture1\\cleanarchitecture1.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C04D8CD4-D1C2-4E36-A65F-F76C06387334}|CleanArchitecture1.Presentation\\CleanArchitecture1.Presentation.csproj|solutionrelative:cleanarchitecture1.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27EC8F9-4A9E-4D6A-B2E5-FDF034D1DC6A}|Solution Items{D27EC8F9-4A9E-4D6A-B2E5-FDF034D1DC6A}|D:\\Work\\Repo-.Net\\NC\\CleanArchitecture1\\Readme-CleanArchitecture1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D27EC8F9-4A9E-4D6A-B2E5-FDF034D1DC6A}|Solution Items{D27EC8F9-4A9E-4D6A-B2E5-FDF034D1DC6A}|solutionrelative:Readme-CleanArchitecture1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\Repo-.Net\\NC\\CleanArchitecture1\\CleanArchitecture1.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture1.WebAPI\\Program.cs",
+              "ToolTip": "D:\\Work\\Repo-.Net\\NC\\CleanArchitecture1\\CleanArchitecture1.WebAPI\\Program.cs",
+              "RelativeToolTip": "CleanArchitecture1.WebAPI\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:59:38.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Work\\Repo-.Net\\NC\\CleanArchitecture1\\CleanArchitecture1.Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture1.Domain\\Entities\\Employee.cs",
+              "ToolTip": "D:\\Work\\Repo-.Net\\NC\\CleanArchitecture1\\CleanArchitecture1.Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "CleanArchitecture1.Domain\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:21:49.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Work\\Repo-.Net\\NC\\CleanArchitecture1\\CleanArchitecture1.Presentation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture1.Presentation\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Work\\Repo-.Net\\NC\\CleanArchitecture1\\CleanArchitecture1.Presentation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CleanArchitecture1.Presentation\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:37:47.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Work\\Repo-.Net\\NC\\CleanArchitecture1\\CleanArchitecture1.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "CleanArchitecture1.Presentation\\appsettings.json",
+              "ToolTip": "D:\\Work\\Repo-.Net\\NC\\CleanArchitecture1\\CleanArchitecture1.Presentation\\appsettings.json",
+              "RelativeToolTip": "CleanArchitecture1.Presentation\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T18:51:07.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\Repo-.Net\\NC\\CleanArchitecture1\\CleanArchitecture1.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture1.Presentation\\Program.cs",
+              "ToolTip": "D:\\Work\\Repo-.Net\\NC\\CleanArchitecture1\\CleanArchitecture1.Presentation\\Program.cs",
+              "RelativeToolTip": "CleanArchitecture1.Presentation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:43:42.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Readme-CleanArchitecture1.txt",
+              "DocumentMoniker": "D:\\Work\\Repo-.Net\\NC\\CleanArchitecture1\\Readme-CleanArchitecture1.txt",
+              "RelativeDocumentMoniker": "Readme-CleanArchitecture1.txt",
+              "ToolTip": "D:\\Work\\Repo-.Net\\NC\\CleanArchitecture1\\Readme-CleanArchitecture1.txt",
+              "RelativeToolTip": "Readme-CleanArchitecture1.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-21T18:31:26.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

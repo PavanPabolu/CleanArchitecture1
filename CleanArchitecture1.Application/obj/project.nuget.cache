@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7GLAg/h3hQI=",
+  "success": true,
+  "projectFilePath": "D:\\Work\\Repo-.Net\\NC\\CleanArchitecture1\\CleanArchitecture1.Application\\CleanArchitecture1.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pavan\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
+    "C:\\Users\\pavan\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.1\\fluentvalidation.dependencyinjectionextensions.11.9.1.nupkg.sha512",
+    "C:\\Users\\pavan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
